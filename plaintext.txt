@@ -1,0 +1,1 @@
+AA BB. This is the plaintext intended to test my Playfair program.
